@@ -11,7 +11,7 @@
  
 ______________________________________________
 
-** use push and pop and indexing the get the next output:
+** use unshift, shift, push and pop and indexing the get the next output:
 
     
 ['Spain', 'item1', 'SET item2', ['Berlin','subSubItem1' ], 'Germany' ]
