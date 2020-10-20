@@ -11,7 +11,7 @@
  
 ______________________________________________
 
-** use push and pop the get the next output:
+** use push and pop and indexing the get the next output:
 
     
-['Spain', 'item1', 'item2', ['Berlin','subSubItem1' ], 'Germany' ]
+['Spain', 'item1', 'reset item2', ['Berlin','subSubItem1' ], 'Germany' ]
